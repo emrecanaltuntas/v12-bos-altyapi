@@ -1,0 +1,31 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Pepe Code Bos Altyapi v12",
+  "main": "Pepe.js",
+  "scripts": {
+    "start": "node Pepe.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.0",
+    "ms": "^2.1.2",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.2",
+    "moment-duration-format": "^2.3.2",
+    "dblapi.js": "^2.4.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
